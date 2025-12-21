@@ -3,6 +3,7 @@
 
 A personal budget tracker app with passport local authorization. Add bills and multiple sources of income. See how your expenses break down daily, weekly, monthly, and yearly.
 
+🌐 [Project Link](https://pocket-9bhp.onrender.com/)
 
 ## Screenshots
 
@@ -32,7 +33,7 @@ A personal budget tracker app with passport local authorization. Add bills and m
 Install with npm
 
 ```bash
-  npm install bcrypt connect-mongo dotenv ejs express express-flash express-session mongodb mongoose morgan nodemon passport passport-local validator
+  npm install
 ```
 ## Environment Variables
 
